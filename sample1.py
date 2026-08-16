@@ -24,7 +24,9 @@ print("gooooffy ahh callculator")
 #Celsius = (Fahreinheit - 32) * 5/9
 #print("The temperature in Celsius is: ", Celsius)
 
-third = int(input("Enter a number 3: "))
-fourth = int(input("Enter a number 4: "))
-dif = third - fourth
-print("The difference of the two numbers is: ", dif)
+#third = int(input("Enter a number 3: "))
+#fourth = int(input("Enter a number 4: "))
+#dif = third - fourth
+#print("The difference of the two numbers is: ", dif)
+
+
